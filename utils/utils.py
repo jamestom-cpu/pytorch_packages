@@ -19,11 +19,7 @@ from tqdm.notebook import tqdm
 from pprint import pprint
 import matplotlib
 import matplotlib.pyplot as plt
-<<<<<<< HEAD
 
-=======
-%matplotlib inline
->>>>>>> 07569e62698664f0287e9565e7f1ddfff9cbe46f
 
 matplotlib.rcParams['figure.facecolor'] = '#ffffff'
 
